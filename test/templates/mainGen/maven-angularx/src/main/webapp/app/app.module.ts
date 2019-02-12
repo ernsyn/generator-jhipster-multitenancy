@@ -1,1 +1,1 @@
-customHttpProvider(),
+UserRouteAccessService } from './shared';
